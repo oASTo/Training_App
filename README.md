@@ -1,3 +1,10 @@
+
+Learning by Doing in this task let me know that i still need to learn more and investing more time to code especially with guidance from mentors that will  make a fast learning, and making things works more efficient
+-AST
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# Training_App
